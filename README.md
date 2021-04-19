@@ -125,3 +125,11 @@ boosting classifier to our test set.</p>
 predicted classes to the test classes, our model got 5277 correct
 classifications out of 7929 test classifications.&nbsp; This gives an accuracy of 67%. </p>
 <!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The dataset can be found here: <a href="http://archive.ics.uci.edu/ml/datasets/Online+News+Popularity">http://archive.ics.uci.edu/ml/datasets/Online+News+Popularity</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>K. Fernandes, P. Vinagre and P. Cortez. A Proactive Intelligent Decision Support System for Predicting the Popularity of Online News. Proceedings of the 17th EPIA 2015 - Portuguese Conference on Artificial Intelligence, September, Coimbra, Portugal.</p>
+<!-- /wp:paragraph -->
